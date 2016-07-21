@@ -1,0 +1,27 @@
+{
+  "name": "lib",
+  "description": "lib of dependencys",
+  "main": "lib",
+  "keywords": [
+    "lib"
+  ],
+  "authors": [
+    "reilly"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "underscore": "^1.8.3"
+  }
+}
